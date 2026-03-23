@@ -24,4 +24,4 @@ This project demonstrates:
 - **Modular Programming:** Organized class-based structure.
 
 ---
-Developed by **Gebre Gebey** - Software Engineering Student
+Developed by ** Gebey Gebre** - Software Engineering Student
